@@ -1,4 +1,4 @@
-# tensorflow-cpu-data-science-project
+# Tensor Flow 2.0 Data Science Python Template
 
 Repository containing scaffolding for a Python 3-based data science project using on the [TensorFlow](https://www.tensorflow.org/) ecosystem. 
 
@@ -24,6 +24,8 @@ Project organization is based on ideas from [_Good Enough Practices for Scientif
 ## Using Conda
 
 ### Creating the Conda environment
+
+Open the environment.yml file and add the name you want for the environment.  Replace 'none' with you own name
 
 After adding any necessary dependencies that should be downloaded via `conda` to the `environment.yml` file 
 and any dependencies that should be downloaded via `pip` to the `requirements.txt` file you create the 
