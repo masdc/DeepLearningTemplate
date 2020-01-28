@@ -18,4 +18,3 @@ dependencies:
   - numpy=1.16.5
   - joblib=0.13.2
   - xgboost=0.9
-  - 
